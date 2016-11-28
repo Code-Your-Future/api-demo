@@ -1,12 +1,16 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "www.waterlooactioncentre.co.uk", 
+      "tel": "0207 261 1404", 
+      "area": "South", 
+      "process": "Drop in (6.30-8pm) - as long as the person has a number, they will be registered and the volunteers will endeavour to see them before 10.30pm, but cannot be guaranteed.", 
+      "organisation": "Waterloo Legal Advice Service", 
+      "clients": "All", 
+      "days": "Thursday evening only ", 
+      "services": "Legal advice", 
+      "borough": "Lambeth", 
+      "email": ""
+    }
+  ]
 }

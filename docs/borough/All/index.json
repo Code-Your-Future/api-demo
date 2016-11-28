@@ -1,12 +1,100 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://www.ilpa.org.uk/search-directory.php", 
+      "tel": "020 7251 8383", 
+      "area": "All", 
+      "process": "", 
+      "organisation": "ILPA", 
+      "clients": "All", 
+      "days": "N/A", 
+      "services": "Immigration Advice Directory", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "www.jcwi.org.uk", 
+      "tel": "020 7553 7470", 
+      "area": "All", 
+      "process": "Call for confidential advice between 10-1", 
+      "organisation": "JCWI", 
+      "clients": "Undocumented migrants", 
+      "days": "Mon, Tues, Thurs", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "www.asylumaid.org.uk", 
+      "tel": "020 7354 9264", 
+      "area": "All", 
+      "process": "Call between 1-4pm", 
+      "organisation": "Asylum Aid", 
+      "clients": "Refugees/AS", 
+      "days": "Tuesdays", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "www.hclc.org.uk", 
+      "tel": "020 8985 8364", 
+      "area": "All", 
+      "process": "Call between 11am-1pm", 
+      "organisation": "Hackney Community Law Centre", 
+      "clients": "All migrants", 
+      "days": "Fridays", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "www.childrenslegalcentre.com", 
+      "tel": "020 7636 8505", 
+      "area": "All", 
+      "process": "Call between 10am-6pm", 
+      "organisation": "Migrant Children's Project", 
+      "clients": "Migrant families", 
+      "days": "Mon- Fri", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "www.airecentre.org", 
+      "tel": "020 7831 4276", 
+      "area": "All", 
+      "process": "Call between 10am-6pm", 
+      "organisation": "AIRE centre", 
+      "clients": "EU migrants", 
+      "days": "Mon- Fri", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": "info@airecentre.org"
+    }, 
+    {
+      "website": "http://rightsofwomen.org.uk/", 
+      "tel": "020 7490 7689 (immigration)/020 7251 6577 (family)", 
+      "area": "All", 
+      "process": "Call for advice", 
+      "organisation": "Rights of Women", 
+      "clients": "Women", 
+      "days": "Mon-Thurs", 
+      "services": "Telephone Adviceline (immigration, family)", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "tel": "0845 618 5385", 
+      "area": "All", 
+      "process": "Call for advice", 
+      "organisation": "Afro-Asian Advisory Service", 
+      "clients": "All migrants", 
+      "days": "Mon-Fri", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }
+  ]
 }

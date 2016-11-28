@@ -1,12 +1,28 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://www.praxis.org.uk/advice-and-information-page-37.html", 
+      "tel": "020 7729 7985", 
+      "area": "East", 
+      "process": "Drop-in (arrive 9.30 for 10 open) at Pott street, E2 0EF", 
+      "organisation": "Praxis", 
+      "clients": "All", 
+      "days": "Fridays", 
+      "services": "Immigration Advice", 
+      "borough": "Tower Hamlets", 
+      "email": "advice@praxis.org.uk"
+    }, 
+    {
+      "website": "http://www.praxis.org.uk/advice-and-information-page-37.html", 
+      "tel": "020 7729 7985", 
+      "area": "East", 
+      "process": "Email referral form saved on drive to advice@praxis.org.uk", 
+      "organisation": "Praxis", 
+      "clients": "All", 
+      "days": "All", 
+      "services": "Immigration Advice", 
+      "borough": "Tower Hamlets", 
+      "email": "Mel.Steel@praxis.org.uk"
+    }
+  ]
 }

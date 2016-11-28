@@ -39,7 +39,7 @@ def create_api(field, options):
                               option.replace(' ', '-').replace('/', '-'))
         mkdir(path)
         with open('{}/index.json'.format(path), 'w') as f:
-            f.write(json.dumps(data, indent=2))
+            f.write(json.dumps({'data': db.search(Query()[field] == option)}, indent=2))
 
     with open('{}/index.json'.format(locations), 'w') as f:
         cleaned_options = [

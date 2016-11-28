@@ -1,12 +1,40 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "www.waterlooactioncentre.co.uk", 
+      "tel": "0207 261 1404", 
+      "area": "South", 
+      "process": "Drop in (6.30-8pm) - as long as the person has a number, they will be registered and the volunteers will endeavour to see them before 10.30pm, but cannot be guaranteed.", 
+      "organisation": "Waterloo Legal Advice Service", 
+      "clients": "All", 
+      "days": "Thursday evening only ", 
+      "services": "Legal advice", 
+      "borough": "Lambeth", 
+      "email": ""
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "tel": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail:advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "days": "Drop-in centre every Wednesday from 10.00 to 12.00 at Trinity Church Hall Hill Road, Sutton, SM1 1DZ", 
+      "services": "Immigration Advice", 
+      "borough": "Sutton", 
+      "email": "advice@rmns.org.uk."
+    }, 
+    {
+      "website": "http://www.advicelewisham.org.uk/lewisham-refugee-migrant-network/", 
+      "tel": "", 
+      "area": "South", 
+      "process": "", 
+      "organisation": "Lewisham Refugee and Migrant Network", 
+      "clients": "Lewisham residents", 
+      "days": "", 
+      "services": "OISC Level 3 immigration advice", 
+      "borough": "Lewisham", 
+      "email": ""
+    }
+  ]
 }

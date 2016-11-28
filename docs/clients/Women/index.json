@@ -1,12 +1,16 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://rightsofwomen.org.uk/", 
+      "tel": "020 7490 7689 (immigration)/020 7251 6577 (family)", 
+      "area": "All", 
+      "process": "Call for advice", 
+      "organisation": "Rights of Women", 
+      "clients": "Women", 
+      "days": "Mon-Thurs", 
+      "services": "Telephone Adviceline (immigration, family)", 
+      "borough": "All", 
+      "email": ""
+    }
+  ]
 }

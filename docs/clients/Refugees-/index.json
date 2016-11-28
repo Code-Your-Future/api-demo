@@ -1,12 +1,16 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://www.breaking-barriers.co.uk/", 
+      "tel": "07908 801286", 
+      "area": "Central and South", 
+      "process": "phone or email stating\u00a0name, contact telephone number and within 2 days\u00a0an initial appointment will be made. or drop in centre", 
+      "organisation": "Breaking Barriers", 
+      "clients": "Refugees ", 
+      "days": "\u00a0drop in centre between 9am and 5pm every Thursday at John Morris House Community Centre SW11 1SW.", 
+      "services": "Employability workshops/placements", 
+      "borough": "Farringdon/ Battersea", 
+      "email": "enquiries@breaking-barriers.co.uk, "
+    }
+  ]
 }

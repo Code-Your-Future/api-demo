@@ -1,12 +1,40 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://haringeylawcentre.org.uk/", 
+      "tel": "020 8808 5354", 
+      "area": "North", 
+      "process": "", 
+      "organisation": "Haringey Law Centre", 
+      "clients": "Status", 
+      "days": "N/A", 
+      "services": "Immigration", 
+      "borough": "Haringey", 
+      "email": "tottenhamlawcentre@tiscali.co.uk"
+    }, 
+    {
+      "website": "http://www.haringeymsc.org/index.php/about-us", 
+      "tel": "7544078332", 
+      "area": "North", 
+      "process": "", 
+      "organisation": "Haringey Migrant Service", 
+      "clients": "All", 
+      "days": "Monday", 
+      "services": "Immigration", 
+      "borough": "Haringey", 
+      "email": "info@haringeymsc.org"
+    }, 
+    {
+      "website": "http://haringeymsc.org.gridhosted.co.uk/visiting-us/", 
+      "tel": "", 
+      "area": "North", 
+      "process": "Drop-in 1-3pm (call to check accepting new clients)", 
+      "organisation": "Haringey Migrant Support Centre", 
+      "clients": "AS/Refugees", 
+      "days": "Mondays", 
+      "services": "Immigration Advice", 
+      "borough": "Haringey", 
+      "email": "info@haringeymsc.org"
+    }
+  ]
 }

@@ -1,12 +1,88 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://haringeylawcentre.org.uk/", 
+      "tel": "020 8808 5354", 
+      "area": "North", 
+      "process": "", 
+      "organisation": "Haringey Law Centre", 
+      "clients": "Status", 
+      "days": "N/A", 
+      "services": "Immigration", 
+      "borough": "Haringey", 
+      "email": "tottenhamlawcentre@tiscali.co.uk"
+    }, 
+    {
+      "website": "http://www.haringeymsc.org/index.php/about-us", 
+      "tel": "7544078332", 
+      "area": "North", 
+      "process": "", 
+      "organisation": "Haringey Migrant Service", 
+      "clients": "All", 
+      "days": "Monday", 
+      "services": "Immigration", 
+      "borough": "Haringey", 
+      "email": "info@haringeymsc.org"
+    }, 
+    {
+      "website": "http://www.b-r-s.org.uk/index.php?option=com_contentandview=articleandid=4andItemid=3", 
+      "tel": "0208 905 9002", 
+      "area": "North", 
+      "process": "Drop in/appointment 11-12.30 at Barnet College", 
+      "organisation": "Barnet Refugee Service", 
+      "clients": "All", 
+      "days": "Friday am", 
+      "services": "Immigration/Asylum/Travel Docs/Citizenship", 
+      "borough": "Barnet", 
+      "email": "nosheen@b-r-s.org.uk"
+    }, 
+    {
+      "website": "http://www.b-r-s.org.uk/index.php?option=com_contentandview=articleandid=4andItemid=3", 
+      "tel": "0208 905 9002", 
+      "area": "North", 
+      "process": "Drop in/apointments 1-3pm at Edgware Community Hospital", 
+      "organisation": "Barnet Refugee Service", 
+      "clients": "All", 
+      "days": "Tuesday\u00a0and Friday pm", 
+      "services": "Immigration/Asylum/Travel Docs/Citizenship", 
+      "borough": "Barnet", 
+      "email": "nosheen@b-r-s.org.uk"
+    }, 
+    {
+      "website": "http://haringeymsc.org.gridhosted.co.uk/visiting-us/", 
+      "tel": "", 
+      "area": "North", 
+      "process": "Drop-in 1-3pm (call to check accepting new clients)", 
+      "organisation": "Haringey Migrant Support Centre", 
+      "clients": "AS/Refugees", 
+      "days": "Mondays", 
+      "services": "Immigration Advice", 
+      "borough": "Haringey", 
+      "email": "info@haringeymsc.org"
+    }, 
+    {
+      "website": "http://www.casalatina.org.uk/en/legal-and-social-advice/immigration-advice.html", 
+      "tel": "020 7372 5244", 
+      "area": "North", 
+      "process": "Drop-in (arrive before 4pm for 4pm open)", 
+      "organisation": "Latin American House", 
+      "clients": "Latin American Cls", 
+      "days": "Wednesdays", 
+      "services": "Immigration Advice", 
+      "borough": "Kilburn", 
+      "email": "immigration@casalatina.org.uk"
+    }, 
+    {
+      "website": "http://www.casalatina.org.uk/en/legal-and-social-advice/immigration-advice.html", 
+      "tel": "020 7372 5244", 
+      "area": "North", 
+      "process": "Call for appointment", 
+      "organisation": "Latin American House", 
+      "clients": "Latin American Cls", 
+      "days": "One Saturday p/m", 
+      "services": "Immigration Advice", 
+      "borough": "Kilburn", 
+      "email": "immigration@casalatina.org.uk"
+    }
+  ]
 }

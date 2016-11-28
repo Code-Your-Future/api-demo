@@ -1,12 +1,16 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://haringeymsc.org.gridhosted.co.uk/visiting-us/", 
+      "tel": "", 
+      "area": "North", 
+      "process": "Drop-in 1-3pm (call to check accepting new clients)", 
+      "organisation": "Haringey Migrant Support Centre", 
+      "clients": "AS/Refugees", 
+      "days": "Mondays", 
+      "services": "Immigration Advice", 
+      "borough": "Haringey", 
+      "email": "info@haringeymsc.org"
+    }
+  ]
 }

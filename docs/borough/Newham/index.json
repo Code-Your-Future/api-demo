@@ -1,12 +1,16 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "http://www.renewalprogramme.org.uk/refugee-and-migrant-project.html", 
+      "tel": "020 8471 6954", 
+      "area": "East", 
+      "process": "Call for appointment", 
+      "organisation": "Renewal Refugee and Migrant Project", 
+      "clients": "All", 
+      "days": "N/A", 
+      "services": "Immigration and Nationality", 
+      "borough": "Newham", 
+      "email": "cath.woodall@renewalprogramme.org.uk"
+    }
+  ]
 }

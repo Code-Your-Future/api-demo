@@ -1,12 +1,40 @@
 {
-  "website": "http://www.toynbeehall.org.uk/about-city-advice", 
-  "tel": "020 7392 2919", 
-  "area": "City of London", 
-  "process": "Call for advice", 
-  "organisation": "City Advice", 
-  "clients": "Residents/Workers of City of London", 
-  "days": "Mon-Fri 10am -5pm", 
-  "services": "Legal advice", 
-  "borough": "London", 
-  "email": ""
+  "data": [
+    {
+      "website": "www.hclc.org.uk", 
+      "tel": "020 8985 8364", 
+      "area": "All", 
+      "process": "Call between 11am-1pm", 
+      "organisation": "Hackney Community Law Centre", 
+      "clients": "All migrants", 
+      "days": "Fridays", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "tel": "0845 618 5385", 
+      "area": "All", 
+      "process": "Call for advice", 
+      "organisation": "Afro-Asian Advisory Service", 
+      "clients": "All migrants", 
+      "days": "Mon-Fri", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "email": ""
+    }, 
+    {
+      "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "tel": "020 7701 0141", 
+      "area": "South East", 
+      "process": "Call for appointment", 
+      "organisation": "Afro-Asian Advisory Service", 
+      "clients": "All migrants", 
+      "days": "N/A", 
+      "services": "Immigration Advice", 
+      "borough": "Southwark", 
+      "email": ""
+    }
+  ]
 }
