@@ -1,7 +1,47 @@
 {
   "data": [
     {
+      "website": "http://www.refugeecouncil.org.uk/london_destitution_services", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "", 
+      "organisation": "Refugee Council", 
+      "clients": "Refugees/AS", 
+      "telephone": "", 
+      "services": "English Class", 
+      "borough": "Newham", 
+      "type": "Education", 
+      "day": "Monday am"
+    }, 
+    {
+      "website": "http://www.refugeecouncil.org.uk/london_destitution_services", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "", 
+      "organisation": "Refugee Council", 
+      "clients": "Refugees/AS", 
+      "telephone": "", 
+      "services": "English Class", 
+      "borough": "Newham", 
+      "type": "Education", 
+      "day": "Thursday am"
+    }, 
+    {
+      "website": "http://www.bristol.ac.uk/fees-funding/awards/sanctuary-scholarship/", 
+      "email\r": "", 
+      "area": "Bristol", 
+      "process": "", 
+      "organisation": "Bristol University", 
+      "clients": "Refugees/AS", 
+      "telephone": "", 
+      "services": "Scholarships for asylum seekers and refugees who want to study at university (from undergraduate to PhD", 
+      "borough": "Bristol", 
+      "type": "Education", 
+      "day": ""
+    }, 
+    {
       "website": "www.asylumaid.org.uk", 
+      "email\r": "", 
       "tel": "020 7354 9264", 
       "area": "All", 
       "process": "Call between 1-4pm", 
@@ -10,7 +50,7 @@
       "days": "Tuesdays", 
       "services": "Telephone Adviceline", 
       "borough": "All", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

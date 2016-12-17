@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "website": "http://www.refugeecouncil.org.uk/what_we_do/therapeutic_casework/therapeutic_casework_services/therapeutic_casework_unit_referral_for", 
+      "email\r": "therapeutic@refugeecouncil.org.uk", 
+      "tel": "", 
+      "area": "East", 
+      "process": "Online referral form (see link to website)", 
+      "organisation": "Refugee Council", 
+      "clients": "AS", 
+      "days": "N/A", 
+      "services": "Therapeutic Casework", 
+      "borough": "Newham", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "https://carers.org/", 
+      "email\r": "Moira Wilkinson <mwilkinson@carers.org>", 
+      "tel": "07773 047998", 
+      "area": "All", 
+      "process": "Contact specific borough's carers org", 
+      "organisation": "Carers Trust", 
+      "clients": "Carers", 
+      "days": "N/A", 
+      "services": "Emotional/practical/financial support to carers", 
+      "borough": "All", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://www.mind.org.uk/information-support/helplines/", 
+      "email\r": "info@mind.org.uk", 
+      "tel": "030 0123 3393/ Text: 86463", 
+      "area": "All", 
+      "process": "Call or text for details of Mind centres", 
+      "organisation": "Mind Infoline", 
+      "clients": "All", 
+      "days": "Mon - Fri 9am-6pm", 
+      "services": "Information line for anyone with experience of mental distress", 
+      "borough": "All", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "www.samaritans.org", 
+      "email\r": "jo@samaritans.org", 
+      "tel": "116 123 (Freephone)", 
+      "area": "All (and Central)", 
+      "process": "Clients can call the freephone 24/7. Or they can drop in to the Oxford Circus Samaritans office for emotional support 9am-9pm everyday.", 
+      "organisation": "The Samaritans", 
+      "clients": "All", 
+      "days": "Line open 24/7,\u00a0Drop-in: Every day 9am-9pm", 
+      "services": "Confidential emotional support", 
+      "borough": "Westminster", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://www.slam.nhs.uk/our-services/service-finder-details?CODE=SU0552", 
+      "email\r": "startteam@slam.nhs.uk", 
+      "tel": "020 3228 5911", 
+      "area": "South", 
+      "process": "Phone for appointment. Clinic support available at various day centres across South London. Referrals also possible by phone or by sending off the following form: http://www.slam.nhs.uk/media/358263/START%20REFERRAL%20FORM.pdf", 
+      "organisation": "START Team", 
+      "clients": "Rough sleepers in Lambeth, Southwark and Lewisham", 
+      "days": "Mon-Fri: 9am - 4pm", 
+      "services": "Counselling", 
+      "borough": "Lambeth, Southwark, Lewisham", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "https://www.ideastoreonlinedirectory.org/kb5/towerhamlets/cd/service.page?id=li0Mzfe4OLo", 
+      "email\r": "thlinkworkers@prha.net", 
+      "tel": "020 7920 7335", 
+      "area": "East", 
+      "process": "Call or email for enquiries. Self-referrals welcome.", 
+      "organisation": "Tower Hamlets Link Worker Scheme", 
+      "clients": "Prison/detention history", 
+      "days": "Mon-Fri: 9.30-5pm", 
+      "services": "Counselling", 
+      "borough": "Tower Hamlets", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "tel": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail:advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "days": "Drop-in centre every Wed", 
+      "services": "Counselling", 
+      "borough": "Sutton", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://rcdow.org.uk/caritas/human-trafficking/", 
+      "email\r": "e-mail: bakhitahouse@rcdow.org.uk", 
+      "tel": "", 
+      "area": "All", 
+      "process": "email", 
+      "organisation": "Bakhita House", 
+      "clients": "Trafficking", 
+      "days": "", 
+      "services": "Psychosexual therapy", 
+      "borough": "All", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://roomtoheal.org/", 
+      "email\r": "tom@roomtoheal.org.uk.", 
+      "tel": "0207 241 5941", 
+      "area": "North", 
+      "process": "Call to book appointment, also make a referral", 
+      "organisation": "Room to Heal", 
+      "clients": "Asylum Seekers and Refugees", 
+      "days": "09:30 \u2013 18:00 on Mondays, Tuesdays, Thursdays and Fridays", 
+      "services": "Therapeutic Casework", 
+      "borough": "London", 
+      "type": "Mental Health Services"
+    }
+  ]
+}

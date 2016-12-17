@@ -2,6 +2,163 @@
   "data": [
     {
       "website": "http://www.afril.org.uk/en/services/advice-service/", 
+      "email\r": "iolanda@afril.org.uk", 
+      "tel": "0208 297 4111", 
+      "area": "South East", 
+      "process": "Call in advance (appt only)", 
+      "organisation": "AFRIL", 
+      "clients": "All", 
+      "services": "Debt Advice", 
+      "borough": "Lewisham", 
+      "type": "Debt", 
+      "day": "Tuesday"
+    }, 
+    {
+      "website": "http://www.afril.org.uk/en/services/advice-service/", 
+      "email\r": "iolanda@afril.org.uk", 
+      "tel": "0208 297 4111", 
+      "area": "South East", 
+      "process": "Call in advance (appt only)", 
+      "organisation": "AFRIL", 
+      "clients": "All", 
+      "services": "Debt Advice", 
+      "borough": "Lewisham", 
+      "type": "Debt", 
+      "day": "Friday am"
+    }, 
+    {
+      "website": "http://999club.org/our-services/winter-night-shelter/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South East", 
+      "process": "Call for info", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Winter Night Shelter", 
+      "borough": "Deptford", 
+      "type": "Destitution", 
+      "day": ""
+    }, 
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South East", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Homelessness advice", 
+      "borough": "Deptford", 
+      "type": "Destitution", 
+      "day": "Mon - Fri"
+    }, 
+    {
+      "website": "", 
+      "email\r": "", 
+      "tel": "020 8960 2644", 
+      "area": "South East", 
+      "process": "", 
+      "organisation": "Missionaries of Charities Soup Kitchen", 
+      "clients": "", 
+      "services": "Food", 
+      "borough": "Elephant and Castle", 
+      "type": "Destitution", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.homelessuk.org/details.asp?id=HO1000457", 
+      "email\r": "", 
+      "tel": "020 7620 1504", 
+      "area": "South East", 
+      "process": "Take enquiries from 4pm all days except Thurs andSun", 
+      "organisation": "Missionaries of Charity Gift of Love", 
+      "clients": "Single homeless men aged 25+", 
+      "services": "Accommodation, resettlement support", 
+      "borough": "Southwark", 
+      "type": "Destitution", 
+      "day": "N/A"
+    }, 
+    {
+      "website": "http://www.refugeecouncil.org.uk/services/2888_bromley_refugee_day_centre", 
+      "email\r": "CHRISTOPHERMEZZETTI@BTINTERNET.COM", 
+      "tel": "020 8778 7014", 
+      "area": "South East", 
+      "process": "Call", 
+      "organisation": "Bromley Refugee Day Centre", 
+      "clients": "Refugees", 
+      "services": "Advive, integration training", 
+      "borough": "Bromley", 
+      "type": "Destitution", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.afril.org.uk/en/services/advice-service/", 
+      "email\r": "iolanda@afril.org.uk", 
+      "area": "South East", 
+      "process": "Call in advance (appt only)", 
+      "organisation": "AFRIL", 
+      "clients": "All", 
+      "telephone": "0208 297 4111", 
+      "services": "Education advice", 
+      "borough": "Lewisham", 
+      "type": "Education", 
+      "day": "Tuesday"
+    }, 
+    {
+      "website": "http://www.afril.org.uk/en/services/esol-classes/", 
+      "email\r": "iolanda@afril.org.uk", 
+      "area": "South East", 
+      "process": "Complete app form andemail to AFRIL", 
+      "organisation": "AFRIL", 
+      "clients": "Status", 
+      "telephone": "0209 297 4111", 
+      "services": "ESOL Classes", 
+      "borough": "Lewisham", 
+      "type": "Education", 
+      "day": "Monday am"
+    }, 
+    {
+      "website": "http://www.afril.org.uk/en/services/advice-service/", 
+      "email\r": "iolanda@afril.org.uk", 
+      "tel": "0208 297 4111", 
+      "area": "South East", 
+      "process": "Call in advance (appt only)", 
+      "organisation": "AFRIL", 
+      "clients": "All", 
+      "services": "Healthcare advice", 
+      "borough": "Lewisham", 
+      "type": "Healthcare", 
+      "day": "Tuesday"
+    }, 
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South East", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Help Registering with a GP, accessing mental health services", 
+      "borough": "Deptford", 
+      "type": "Healthcare", 
+      "day": "Mon - Fri"
+    }, 
+    {
+      "website": "http://www.afril.org.uk/en/services/advice-service/", 
+      "email\r": "iolanda@afril.org.uk", 
+      "area": "South East", 
+      "process": "Call in advance (appt only)", 
+      "organisation": "AFRIL", 
+      "clients": "All", 
+      "days": "Tuesday", 
+      "telephone": "0208 297 4111", 
+      "services": "Housing", 
+      "borough": "Lewisham", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.afril.org.uk/en/services/advice-service/", 
+      "email\r": "", 
       "tel": "0208 297 4111", 
       "area": "South East", 
       "process": "", 
@@ -10,10 +167,11 @@
       "days": "Thursday pm", 
       "services": "Immigration", 
       "borough": "Lewisham", 
-      "email": ""
+      "type": "Immigration"
     }, 
     {
       "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "email\r": "", 
       "tel": "020 7701 0141", 
       "area": "South East", 
       "process": "Call for appointment", 
@@ -22,7 +180,7 @@
       "days": "N/A", 
       "services": "Immigration Advice", 
       "borough": "Southwark", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

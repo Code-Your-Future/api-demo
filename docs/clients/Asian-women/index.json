@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "website": "http://www.asianwomencentre.org.uk/", 
+      "email\r": "referrals@asianwomencentre.org.uk", 
+      "tel": "020 8961 6549", 
+      "area": "North", 
+      "process": "Call or email", 
+      "organisation": "BRS - Asian Women's Resource Centre", 
+      "clients": "Asian women", 
+      "services": "One-to-one advice sessions", 
+      "borough": "Barnet", 
+      "type": "Destitution", 
+      "day": "Tuesday 2-5pm"
+    }, 
+    {
+      "website": "www.hopscotchawc.org.uk", 
+      "area": "North", 
+      "process": "Welfare advice, ESOL and Older Women's Group require appointments (email or phone). Domestic violence support is accessible via drop-in.", 
+      "organisation": "Hopscotch Asian Women's Centre", 
+      "clients": "Asian women", 
+      "telephone": "020 7388 8198", 
+      "day": "MON/TUE (Welfare Advice): Appointment only. TUE and THU (ESOL): 10am - 12pm. THU: (Domestic Violence support, drop-in): 9.30am - 5pm, THU: Older Women's Social Group:  10am -2pm.", 
+      "address\r": "", 
+      "services": "Support services for Asian women. Staff speak Bengali, English, Hindi and Urdu.", 
+      "borough": "Camden", 
+      "type": "Women-DV", 
+      "email": "info@hopscotchawc.org.uk"
+    }
+  ]
+}

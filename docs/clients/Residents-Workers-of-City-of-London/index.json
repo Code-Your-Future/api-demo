@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "http://www.toynbeehall.org.uk/about-city-advice", 
+      "email\r": "", 
       "tel": "020 7392 2919", 
       "area": "City of London", 
       "process": "Call for advice", 
@@ -10,7 +11,7 @@
       "days": "Mon-Fri 10am -5pm", 
       "services": "Legal advice", 
       "borough": "London", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Benefits Advice", 
+      "borough": "Deptford", 
+      "type": "Benefits", 
+      "day": "Mon - Fri"
+    }, 
+    {
+      "website": "http://999club.org/our-services/winter-night-shelter/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South East", 
+      "process": "Call for info", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Winter Night Shelter", 
+      "borough": "Deptford", 
+      "type": "Destitution", 
+      "day": ""
+    }, 
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South East", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Homelessness advice", 
+      "borough": "Deptford", 
+      "type": "Destitution", 
+      "day": "Mon - Fri"
+    }, 
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "area": "South", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "days": "Mon - Fri", 
+      "telephone": "020 8694 5797", 
+      "services": "Help with employment", 
+      "borough": "Deptford", 
+      "type": "Employment"
+    }, 
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "tel": "020 8694 5797", 
+      "area": "South East", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "services": "Help Registering with a GP, accessing mental health services", 
+      "borough": "Deptford", 
+      "type": "Healthcare", 
+      "day": "Mon - Fri"
+    }, 
+    {
+      "website": "http://999club.org/our-services/advice-and-support/", 
+      "email\r": "office@999club.org", 
+      "area": "South", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "days": "Mon - Fri", 
+      "telephone": "020 8694 5797", 
+      "services": "Housing advice", 
+      "borough": "Deptford", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://999club.org/our-services/learning-activities/", 
+      "email\r": "office@999club.org", 
+      "area": "South", 
+      "process": "Drop-in 10.30am Mon- Fri", 
+      "organisation": "999 Club", 
+      "clients": "Homeless/Hostel/Risk of eviction", 
+      "days": "Mon - Fri", 
+      "telephone": "020 8694 5797", 
+      "services": "Learning andActivities Programme", 
+      "borough": "Deptford", 
+      "type": "Social and Other"
+    }
+  ]
+}

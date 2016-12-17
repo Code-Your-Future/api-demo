@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "website": "https://apps.nhsbsa.nhs.uk/LISWebAppStaticData/begin.do", 
+      "email\r": "", 
+      "tel": "3001230849", 
+      "area": "N/A", 
+      "process": "Call/go on website to order HC1 forms/send clients to DoTW drop-in to complete form.", 
+      "organisation": "HC2 Certificates", 
+      "clients": "Asylum seekers\u00a0and those on benefits", 
+      "services": "Applications via HC1 forms for HC2 certificate that allows clients free prescriptions, opticians and dental.", 
+      "borough": "N/A", 
+      "type": "Healthcare", 
+      "day": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "website": "http://hfw.org.uk/", 
+      "email\r": "info@h4w.co.uk", 
+      "tel": "020 7501 6120", 
+      "area": "234-244 Stockwell Road", 
+      "process": "", 
+      "organisation": "Housing for Women ", 
+      "clients": "Victims of domestic violence, trafficking ", 
+      "services": "Empowering women through providing good quality homes, and support to women who have experienced domestic violence, trafficking and mothers leaving prison.", 
+      "borough": "Lambeth ", 
+      "type": "Trafficking", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.hestia.org/about/vision-mission-values/", 
+      "email\r": "Info@Hestia.Org", 
+      "tel": " (0)20 7378 3100", 
+      "area": "", 
+      "process": "", 
+      "organisation": "Hestia Housing and Support", 
+      "clients": "Victims of trafficking, domestic violence ", 
+      "services": "Largest provider of accommodation and outreach support in London and assist female, male and transgender survivors of trafficking ranging from the exploitation of the prostitution of others or other forms of sexual exploitation, forced labour or services, domestic servitude, slavery or practices similar to slavery servitude to the removal of organs. 5 safe houses and expanded community outreach service. ", 
+      "borough": "Southwark ", 
+      "type": "Trafficking", 
+      "day": ""
+    }, 
+    {
+      "website": "", 
+      "email\r": "", 
+      "tel": "", 
+      "area": "", 
+      "process": "", 
+      "organisation": "ATLEU ", 
+      "clients": "", 
+      "services": "", 
+      "borough": "", 
+      "type": "Trafficking", 
+      "day": ""
+    }, 
+    {
+      "website": "", 
+      "email\r": "", 
+      "tel": "", 
+      "area": "", 
+      "process": "", 
+      "organisation": "The Salvation Army", 
+      "clients": "", 
+      "services": "", 
+      "borough": "", 
+      "type": "Trafficking", 
+      "day": ""
+    }, 
+    {
+      "website": "www.refuge.org.uk/athena-lewisham", 
+      "email\r": "lewisham@refuge.org.uk", 
+      "tel": "80011240525", 
+      "area": "Lewisham", 
+      "process": "", 
+      "organisation": "Athena", 
+      "clients": "Victims of gender-based violence (please see the column services for more details)", 
+      "services": "Support services for those who are experiencing gender based violence (domestic violence, rape and sexual assault, stalking, prostitution, sexual exploitation, trafficking for sexual exploitation, FGM, forced marriage, \"honour\"-based violence)", 
+      "borough": "Lewisham", 
+      "type": "Trafficking", 
+      "day": ""
+    }
+  ]
+}

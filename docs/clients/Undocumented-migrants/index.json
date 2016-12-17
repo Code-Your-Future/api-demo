@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "www.jcwi.org.uk", 
+      "email\r": "", 
       "tel": "020 7553 7470", 
       "area": "All", 
       "process": "Call for confidential advice between 10-1", 
@@ -10,7 +11,20 @@
       "days": "Mon, Tues, Thurs", 
       "services": "Telephone Adviceline", 
       "borough": "All", 
-      "email": ""
+      "type": "Immigration"
+    }, 
+    {
+      "website": "www.jcwi.org.uk", 
+      "email\r": "", 
+      "area": "All", 
+      "process": "Call for confidential advice between 10-1", 
+      "organisation": "JCWI", 
+      "clients": "Undocumented migrants", 
+      "days": "Mon, Tues, Thurs", 
+      "telephone": "020 7553 7470", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "type": "NRPF"
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "website": "www.croydonrefugeedaycentre.co.uk", 
+      "email\r": "refugeedaycentre@westcroydon.com", 
+      "tel": "0208 689 4527", 
+      "area": "Croydon", 
+      "process": "Drop in Tuesdays 10am-1pm", 
+      "organisation": "Croydon Refugee Day Centre", 
+      "clients": "", 
+      "services": "Clothing, food, toiletries", 
+      "borough": "Croydon", 
+      "type": "Destitution", 
+      "day": "Tuesday"
+    }, 
+    {
+      "website": "www.croydonrefugeedaycentre.co.uk", 
+      "email\r": "refugeedaycentre@westcroydon.com", 
+      "area": "Croydon", 
+      "process": "Drop in Tuesdays 10am-1pm", 
+      "organisation": "Croydon Refugee Day Centre", 
+      "clients": "AS/Refugees", 
+      "days": "Tuesday", 
+      "telephone": "0208 689 4527", 
+      "services": "Children's Play Area (and other services)", 
+      "borough": "Croydon", 
+      "type": "YP-Families"
+    }
+  ]
+}

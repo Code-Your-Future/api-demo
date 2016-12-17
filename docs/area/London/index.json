@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "website": "http://www.refugee-action.org.uk/get_help_advice/asylum_support_and_homelessness", 
+      "email\r": "nicolettem@refugee-action.org.uk", 
+      "area": "London", 
+      "process": "Email referral", 
+      "organisation": "Refugee Action", 
+      "clients": "Asylum Seekers", 
+      "days": "N/A", 
+      "telephone": "020 7952 1599", 
+      "services": "NASS/Homelessness", 
+      "borough": "All", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.mungos.org/services/preventing_homelessness", 
+      "email\r": "Info@MUNGOS.ORG", 
+      "area": "London", 
+      "process": "All referrals made through Streetlink (0300 500 0914)", 
+      "organisation": "St Mungos", 
+      "clients": "Homeless", 
+      "days": "N/A", 
+      "telephone": "020 3856 6000", 
+      "services": "Homelessness", 
+      "borough": "All", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://strategiclegalfund.org.uk/about/", 
+      "email\r": "SLF@migrationwork.org", 
+      "area": "London", 
+      "process": "Apply online on their website", 
+      "organisation": "Strategic Legal Fund for Young Migrants", 
+      "clients": "Migrants and children of migrants under 25", 
+      "days": "N/A", 
+      "telephone": "Project Manager Gerry Hickey: Gerry Hickey", 
+      "services": "Legal work on discrimination", 
+      "borough": "London", 
+      "type": "YP-Families"
+    }, 
+    {
+      "website": "http://www.xlp.org.uk/", 
+      "email\r": "info@xlp.org.uk", 
+      "area": "London", 
+      "process": "Contact for information", 
+      "organisation": "XLP", 
+      "clients": "Young people - any", 
+      "days": "N/A", 
+      "telephone": "2072566240", 
+      "services": "Arts, Education, Mentoring and Advocacy", 
+      "borough": "Across London", 
+      "type": "YP-Families"
+    }
+  ]
+}

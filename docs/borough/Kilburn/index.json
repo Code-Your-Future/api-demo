@@ -1,7 +1,34 @@
 {
   "data": [
     {
+      "website": "http://www.casalatina.org.uk/en/legal-and-social-advice/benefits-and-housing-law-advice.html", 
+      "email\r": "info@casalatina.org", 
+      "tel": "020 7372 5244", 
+      "area": "North", 
+      "process": "Call for appointment", 
+      "organisation": "Latin American House", 
+      "clients": "Latin American Cls", 
+      "services": "Benefit Advice", 
+      "borough": "Kilburn", 
+      "type": "Benefits", 
+      "day": "Tuesdays pm"
+    }, 
+    {
+      "website": "http://www.advice4renters.org.uk/", 
+      "email\r": "info@advice4renters.org.uk", 
+      "area": "North", 
+      "process": "Call for an appointment", 
+      "organisation": "Advice4Renters", 
+      "clients": "Status (must be eligible for Legal Aid)", 
+      "days": "N/A", 
+      "telephone": "020 7624 4327", 
+      "services": "Private Housing Advice", 
+      "borough": "Kilburn", 
+      "type": "Housing"
+    }, 
+    {
       "website": "http://www.casalatina.org.uk/en/legal-and-social-advice/immigration-advice.html", 
+      "email\r": "immigration@casalatina.org.uk", 
       "tel": "020 7372 5244", 
       "area": "North", 
       "process": "Drop-in (arrive before 4pm for 4pm open)", 
@@ -10,10 +37,11 @@
       "days": "Wednesdays", 
       "services": "Immigration Advice", 
       "borough": "Kilburn", 
-      "email": "immigration@casalatina.org.uk"
+      "type": "Immigration"
     }, 
     {
       "website": "http://www.casalatina.org.uk/en/legal-and-social-advice/immigration-advice.html", 
+      "email\r": "immigration@casalatina.org.uk", 
       "tel": "020 7372 5244", 
       "area": "North", 
       "process": "Call for appointment", 
@@ -22,7 +50,20 @@
       "days": "One Saturday p/m", 
       "services": "Immigration Advice", 
       "borough": "Kilburn", 
-      "email": "immigration@casalatina.org.uk"
+      "type": "Immigration"
+    }, 
+    {
+      "website": "http://www.casalatina.org.uk/en/legal-and-social-advice/family-law.html", 
+      "email\r": "info@casalatina.org", 
+      "area": "North", 
+      "process": "Call for appointment", 
+      "organisation": "Latin American House", 
+      "clients": "Latin American Cls", 
+      "days": "Wednesday pm", 
+      "telephone": "020 7372 5244", 
+      "services": "Family Law Advice", 
+      "borough": "Kilburn", 
+      "type": "YP-Families"
     }
   ]
 }

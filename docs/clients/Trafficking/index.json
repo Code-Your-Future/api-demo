@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "website": "http://rcdow.org.uk/caritas/human-trafficking/", 
+      "email\r": "e-mail: bakhitahouse@rcdow.org.uk", 
+      "area": "All", 
+      "process": "email", 
+      "organisation": "Bakhita House", 
+      "clients": "Trafficking", 
+      "days": "", 
+      "telephone": "", 
+      "services": "Safe house and help accessing accommodation", 
+      "borough": "All", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://rcdow.org.uk/caritas/human-trafficking/", 
+      "email\r": "e-mail: bakhitahouse@rcdow.org.uk", 
+      "tel": "", 
+      "area": "All", 
+      "process": "email", 
+      "organisation": "Bakhita House", 
+      "clients": "Trafficking", 
+      "days": "", 
+      "services": "Psychosexual therapy", 
+      "borough": "All", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://rcdow.org.uk/caritas/human-trafficking/", 
+      "area": "All", 
+      "process": "email", 
+      "organisation": "Bakhita House", 
+      "clients": "Trafficking", 
+      "telephone": "", 
+      "day": "", 
+      "address\r": "", 
+      "services": "Therapy, housing, support", 
+      "borough": "All", 
+      "type": "Women-DV", 
+      "email": "e-mail: bakhitahouse@rcdow.org.uk"
+    }
+  ]
+}

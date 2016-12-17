@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "website": "http://www.marywardlegal.org.uk/", 
+      "email\r": "", 
+      "tel": "2078317079", 
+      "area": "North", 
+      "process": "Call between 10am-1pm to make appointment", 
+      "organisation": "Mary Ward Legal Centre", 
+      "clients": "Camden residents only", 
+      "services": "Benefits advice", 
+      "borough": "Camden (Holborn)", 
+      "type": "Benefits", 
+      "day": "All"
+    }, 
+    {
+      "website": "http://www.marywardlegal.org.uk/", 
+      "email\r": "", 
+      "tel": "2078317079", 
+      "area": "North", 
+      "process": "Call between 10am-1pm to make appointment", 
+      "organisation": "Mary Ward Legal Centre", 
+      "clients": "All", 
+      "services": "Debt Advice", 
+      "borough": "Camden (Holborn)", 
+      "type": "Debt", 
+      "day": "All"
+    }, 
+    {
+      "website": "http://www.marywardlegal.org.uk/", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "Call between 10am-1pm to make appointment", 
+      "organisation": "Mary Ward Legal Centre", 
+      "clients": "Status", 
+      "days": "All", 
+      "telephone": "2078317079", 
+      "services": "Housing advice", 
+      "borough": "Camden (Holborn)", 
+      "type": "Housing"
+    }
+  ]
+}

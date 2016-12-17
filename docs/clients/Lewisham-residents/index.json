@@ -2,6 +2,46 @@
   "data": [
     {
       "website": "http://www.advicelewisham.org.uk/lewisham-refugee-migrant-network/", 
+      "email\r": "", 
+      "tel": "", 
+      "area": "South", 
+      "process": "", 
+      "organisation": "Lewisham Refugee and Migrant Network", 
+      "clients": "Lewisham residents", 
+      "services": "Benefits Advice", 
+      "borough": "Lewisham", 
+      "type": "Benefits", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.advicelewisham.org.uk/lewisham-refugee-migrant-network/", 
+      "email\r": "", 
+      "tel": "", 
+      "area": "South", 
+      "process": "", 
+      "organisation": "Lewisham Refugee and Migrant Network", 
+      "clients": "Lewisham residents", 
+      "services": "Debt advice", 
+      "borough": "Lewisham", 
+      "type": "Debt", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.advicelewisham.org.uk/lewisham-refugee-migrant-network/", 
+      "email\r": "", 
+      "area": "South", 
+      "process": "", 
+      "organisation": "Lewisham Refugee and Migrant Network", 
+      "clients": "Lewisham residents", 
+      "days": "", 
+      "telephone": "", 
+      "services": "Housing advice", 
+      "borough": "Lewisham", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.advicelewisham.org.uk/lewisham-refugee-migrant-network/", 
+      "email\r": "", 
       "tel": "", 
       "area": "South", 
       "process": "", 
@@ -10,7 +50,7 @@
       "days": "", 
       "services": "OISC Level 3 immigration advice", 
       "borough": "Lewisham", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

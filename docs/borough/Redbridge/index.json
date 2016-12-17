@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "tel": "0208 8220 4111", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people (including refugees)", 
+      "services": "Benefits advice", 
+      "borough": "Redbridge", 
+      "type": "Benefits", 
+      "day": "Drop in Tues andThurs 10-3,Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues andThurs"
+    }, 
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "tel": "0208 8220 4111", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people (including refugees)", 
+      "services": "Food, Showers, Clothing", 
+      "borough": "Redbridge", 
+      "type": "Destitution", 
+      "day": "Drop in Tues and Thurs 10-3, Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues and Thurs"
+    }, 
+    {
+      "website": "http://www.rcmh.org.uk/index.php?nuc=organisationsandfunc=viewandid=9anditem=214", 
+      "email\r": "info@thewelcomecentre.org.uk", 
+      "tel": "0208 514 3283.", 
+      "area": "East", 
+      "process": "Day centre - nurses", 
+      "organisation": "The Welcome Project", 
+      "clients": "Homeless", 
+      "services": "Homelessness Support", 
+      "borough": "Redbridge", 
+      "type": "Destitution", 
+      "day": "Tuesday to Friday 10-3"
+    }, 
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people (including refugees)", 
+      "days": "Drop in Tues and Thurs 10-3, Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues\u00a0and Thurs", 
+      "telephone": "0208 8220 4111", 
+      "services": "Employment, Training and Volunteering", 
+      "borough": "Redbridge", 
+      "type": "Employment"
+    }, 
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "tel": "0208 220 4111", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people", 
+      "services": "Nurse led clinic, Drug and alcohol advice", 
+      "borough": "Redbridge", 
+      "type": "Healthcare", 
+      "day": "Drop in Tues and Thurs 10-3, Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues andThurs"
+    }, 
+    {
+      "website": "http://www.rcmh.org.uk/index.php?nuc=organisationsandfunc=viewandid=9anditem=214", 
+      "email\r": "", 
+      "tel": "0208 514 3283.", 
+      "area": "East", 
+      "process": "Day centre - nurses available", 
+      "organisation": "The Welcome Project", 
+      "clients": "Homeless", 
+      "services": "Destitution Support", 
+      "borough": "Redbridge", 
+      "type": "Healthcare", 
+      "day": "Tuesday to Friday 10-3"
+    }, 
+    {
+      "website": "http://www.rcmh.org.uk/index.php?nuc=organisationsandfunc=viewandid=9anditem=214", 
+      "email\r": "", 
+      "area": "East", 
+      "process": "Day centre - nurses", 
+      "organisation": "The Welcome Project", 
+      "clients": "Homeless", 
+      "days": "Tuesday to Friday 10-3", 
+      "telephone": "0208 514 3283.", 
+      "services": "Housing advice", 
+      "borough": "Redbridge", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.redbridgerainbowcommunity.org.uk/", 
+      "area": "East", 
+      "process": "Email: contactus@redbridgerainbowcommunity.org.uk", 
+      "organisation": "Redbridge Rainbow Community", 
+      "clients": "Social group and community forlocal LGBT community", 
+      "days": "Saturday Drop-ins", 
+      "telephone": "020 8553 3116", 
+      "services": "We are a voluntary group who supportLGBT people who live, work, socialize orstudy in the London Borough of Redbridge", 
+      "borough": "Redbridge", 
+      "type": "LGBTQI", 
+      "email": "contactus@redbridgerainbowcommunity.org.uk"
+    }, 
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "All", 
+      "days": "Drop in Tues and Thurs 10-3, Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues and Thurs", 
+      "telephone": "0208 8220 4111", 
+      "services": "Families", 
+      "borough": "Redbridge", 
+      "type": "YP-Families"
+    }
+  ]
+}

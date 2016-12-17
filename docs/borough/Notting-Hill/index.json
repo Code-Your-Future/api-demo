@@ -2,6 +2,20 @@
   "data": [
     {
       "website": "http://www.kalayaan.org.uk/about-us/what-we-do/", 
+      "email\r": "info@kalayaan.org.uk", 
+      "area": "West", 
+      "process": "", 
+      "organisation": "Kalayaan", 
+      "clients": "Migrant domestic workers", 
+      "telephone": "0207 243 2942", 
+      "services": "English classes and preparation for Life in the UK and SELTs tests", 
+      "borough": "Notting Hill", 
+      "type": "Education", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.kalayaan.org.uk/about-us/what-we-do/", 
+      "email\r": "info@kalayaan.org.uk", 
       "tel": "0207 243 2942", 
       "area": "West", 
       "process": "Call for appointment", 
@@ -10,7 +24,7 @@
       "days": "Monday-Thurs and Sunday", 
       "services": "OISC Level 3 immigration advice", 
       "borough": "Notting Hill", 
-      "email": "info@kalayaan.org.uk"
+      "type": "Immigration"
     }
   ]
 }

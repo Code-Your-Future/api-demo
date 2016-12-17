@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "www.childrenslegalcentre.com", 
+      "email\r": "", 
       "tel": "020 7636 8505", 
       "area": "All", 
       "process": "Call between 10am-6pm", 
@@ -10,7 +11,33 @@
       "days": "Mon- Fri", 
       "services": "Telephone Adviceline", 
       "borough": "All", 
-      "email": ""
+      "type": "Immigration"
+    }, 
+    {
+      "website": "www.childrenslegalcentre.com", 
+      "email\r": "", 
+      "area": "All", 
+      "process": "Call between 10am-6pm", 
+      "organisation": "Migrant Children's Project", 
+      "clients": "Migrant families", 
+      "days": "Mon- Fri", 
+      "telephone": "020 7636 8505", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "type": "NRPF"
+    }, 
+    {
+      "website": "www.childrenslegalcentre.com", 
+      "email\r": "", 
+      "area": "All", 
+      "process": "Call between 10am-6pm", 
+      "organisation": "Migrant Children's Project", 
+      "clients": "Migrant families", 
+      "days": "Mon- Fri", 
+      "telephone": "020 7636 8505", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "type": "YP-Families"
     }
   ]
 }

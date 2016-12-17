@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "website": "http://www.churcharmy.org.uk/Groups/245015/Church_Army/ms/Marylebone_Archive/The_Womens_Day/The_Womens_Day.aspx", 
+      "email\r": "daycentre@churcharmy.org.uk", 
+      "area": "West", 
+      "process": "For appointments, Tues/Thu 10am -12pm, call or email. For drop-ins, see Column1", 
+      "organisation": "The Women's Day Centre", 
+      "clients": "Homeless/ with housing/ support needs", 
+      "telephone": "020 7262 3818", 
+      "services": "Advice, assistance, education and activities", 
+      "borough": "Westminster", 
+      "type": "Education", 
+      "day": "Mon - Thur: 9.30am-1.30pm, Fri: 9.30am-12.30pm"
+    }, 
+    {
+      "website": "http://www.churcharmy.org.uk/Groups/245015/Church_Army/ms/Marylebone_Archive/The_Womens_Day/The_Womens_Day.aspx", 
+      "area": "West", 
+      "process": "For appointments, Tues/Thu 10am -12pm, call or email. For drop-ins, see Column1", 
+      "organisation": "The Women's Day Centre", 
+      "clients": "Homeless/ with housing/ support needs", 
+      "telephone": "020 7262 3818", 
+      "day": "Mon - Thur: 9.30am-1.30pm, Fri: 9.30am-12.30pm", 
+      "address\r": "", 
+      "services": "Advice, assistance, education and activities", 
+      "borough": "Westminster", 
+      "type": "Women-DV", 
+      "email": "daycentre@churcharmy.org.uk"
+    }
+  ]
+}

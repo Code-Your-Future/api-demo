@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "tel": "0208 8220 4111", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people (including refugees)", 
+      "services": "Benefits advice", 
+      "borough": "Redbridge", 
+      "type": "Benefits", 
+      "day": "Drop in Tues andThurs 10-3,Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues andThurs"
+    }, 
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "tel": "0208 8220 4111", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people (including refugees)", 
+      "services": "Food, Showers, Clothing", 
+      "borough": "Redbridge", 
+      "type": "Destitution", 
+      "day": "Drop in Tues and Thurs 10-3, Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues and Thurs"
+    }, 
+    {
+      "website": "www.refugeecouncil.org.uk/services/3131_the_welcome_project", 
+      "email\r": "", 
+      "area": "East", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "The Welcome Project", 
+      "clients": "Socially isolated people (including refugees)", 
+      "days": "Drop in Tues and Thurs 10-3, Families Tues-Thurs 10-12, Wed and Fri Homeless Drop-in, Males only after 12.30 on Tues\u00a0and Thurs", 
+      "telephone": "0208 8220 4111", 
+      "services": "Employment, Training and Volunteering", 
+      "borough": "Redbridge", 
+      "type": "Employment"
+    }
+  ]
+}

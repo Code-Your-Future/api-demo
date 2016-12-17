@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "website": "www.redcross.org.uk", 
+      "email\r": "londonhdrc@redcross.org.uk", 
+      "tel": "0207 704 5670", 
+      "area": "East", 
+      "process": "Drop-in at Hackney Destitution Resource Centre, E8 1NG (arrive at 10.30)", 
+      "organisation": "Red Cross", 
+      "clients": "Destitute R/AS", 
+      "services": "General destitution", 
+      "borough": "Hackney", 
+      "type": "Destitution", 
+      "day": "Mon, Tues, Thurs"
+    }, 
+    {
+      "website": "www.redcross.org.uk", 
+      "email\r": "londonhdrc@redcross.org.uk", 
+      "tel": "0207 704 5670", 
+      "area": "East", 
+      "process": "Email referral form saved on drive", 
+      "organisation": "Red Cross", 
+      "clients": "Destitute R/AS", 
+      "services": "Destitution Payments", 
+      "borough": "Hackney", 
+      "type": "Destitution", 
+      "day": "N/A"
+    }
+  ]
+}

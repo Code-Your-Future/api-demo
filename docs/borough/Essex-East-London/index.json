@@ -1,7 +1,47 @@
 {
   "data": [
     {
+      "website": "http://www.ramfel.org.uk/wordpress/welfare-benefits/", 
+      "email\r": "appointment@ramfel.org.uk", 
+      "tel": "020 8478 4513", 
+      "area": "East", 
+      "process": "Refer online", 
+      "organisation": "RAMFEL", 
+      "clients": "All", 
+      "services": "Benefits Advice", 
+      "borough": "Essex/East London", 
+      "type": "Benefits", 
+      "day": "All"
+    }, 
+    {
+      "website": "http://www.ramfel.org.uk/wordpress/health-community-care/", 
+      "email\r": "appointment@ramfel.org.uk", 
+      "tel": "020 8478 4513", 
+      "area": "East", 
+      "process": "Refer online:", 
+      "organisation": "RAMFEL", 
+      "clients": "All", 
+      "services": "Health care advice", 
+      "borough": "Essex/East London", 
+      "type": "Healthcare", 
+      "day": "All"
+    }, 
+    {
+      "website": "http://www.ramfel.org.uk/wordpress/housing-homelessness/", 
+      "email\r": "appointment@ramfel.org.uk", 
+      "area": "East", 
+      "process": "Refer online", 
+      "organisation": "RAMFEL", 
+      "clients": "All", 
+      "days": "All", 
+      "telephone": "020 8478 4513", 
+      "services": "Housing advice", 
+      "borough": "Essex/East London", 
+      "type": "Housing"
+    }, 
+    {
       "website": "http://www.ramfel.org.uk/wordpress/asylum-immigration/", 
+      "email\r": "appointment@ramfel.org.uk", 
       "tel": "020 8478 4513", 
       "area": "East", 
       "process": "Refer online", 
@@ -10,7 +50,7 @@
       "days": "All", 
       "services": "Immigration and Asylum", 
       "borough": "Essex/East London", 
-      "email": "appointment@ramfel.org.uk"
+      "type": "Immigration"
     }
   ]
 }

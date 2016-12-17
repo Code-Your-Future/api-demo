@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "website": "http://www.ashfordplace.org.uk/", 
+      "email\r": "info@ashfordplace.org.uk", 
+      "area": "North", 
+      "process": "Appointment only. Call or email for an appointment.", 
+      "organisation": "Ashford Place", 
+      "clients": "Residents of Brent", 
+      "days": "Mon - Thu 9.30am -5pm Fri: 10.30am - 5pm", 
+      "telephone": "020 8208 8590", 
+      "services": "Housing", 
+      "borough": "Brent", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://youngroots.org.uk/london/", 
+      "email\r": "akram@youngroots.org.uk", 
+      "area": "North", 
+      "process": "Thursdays, 4-6pm", 
+      "organisation": "Young Roots", 
+      "clients": "AS/Refugees", 
+      "days": "Thursdays", 
+      "telephone": "7774314802", 
+      "services": "Youth Group", 
+      "borough": "Brent", 
+      "type": "Social and Other"
+    }, 
+    {
+      "website": "http://youngroots.org.uk/london/", 
+      "email\r": "akram@youngroots.org.uk", 
+      "area": "North", 
+      "process": "Thursdays, 7-8pm", 
+      "organisation": "Young Roots", 
+      "clients": "AS/Refugees", 
+      "days": "Thursdays", 
+      "telephone": "7774314802", 
+      "services": "Football", 
+      "borough": "Brent", 
+      "type": "Social and Other"
+    }, 
+    {
+      "website": "", 
+      "email\r": "akram@youngroots.org.uk", 
+      "area": "North", 
+      "process": "Thursdays, 4-6pm", 
+      "organisation": "Young Roots", 
+      "clients": "AS/Refugees", 
+      "days": "Thursdays", 
+      "telephone": "7774314802", 
+      "services": "Youth Group", 
+      "borough": "Brent", 
+      "type": "YP-Families"
+    }, 
+    {
+      "website": "", 
+      "email\r": "akram@youngroots.org.uk", 
+      "area": "North", 
+      "process": "Thursdays, 7-8pm", 
+      "organisation": "Young Roots", 
+      "clients": "AS/Refugees", 
+      "days": "Thursdays", 
+      "telephone": "7774314802", 
+      "services": "Football", 
+      "borough": "Brent", 
+      "type": "YP-Families"
+    }
+  ]
+}

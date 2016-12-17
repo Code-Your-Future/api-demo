@@ -2,6 +2,59 @@
   "data": [
     {
       "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "tel": "Advice Worker Lucy: 020 8644 4374/07516 175662 to make an appointmentor by e-mail:advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "services": "Benefits Advice", 
+      "borough": "Sutton", 
+      "type": "Benefits", 
+      "day": "Drop-in centre every Wed10-12 at Trinity Church Hall Hill Road, SuttonSM1 1DZ"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment: Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail: advice@rmns.org.uk.", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "telephone": "020 8644 4374", 
+      "services": "English classes", 
+      "borough": "Sutton", 
+      "type": "Education", 
+      "day": "Drop-in centre every Wednesday from 10.00 to 12.00 at Trinity Church Hall Hill Road, SuttonSM1 1DZ"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "tel": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail:advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "services": "GP registration", 
+      "borough": "Sutton", 
+      "type": "Healthcare", 
+      "day": "Drop-in centre every Wednesday from 10.00 to 12.00 at Trinity Church Hall Hill Road, Sutton, SM1 1DZ"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "days": "Drop-in centre every Wednesday from 10.00 to 12.00 at Trinity Church Hall Hill Road, SuttonSM1 1DZ", 
+      "telephone": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointmentor by e-mail:advice@rmns.org.uk", 
+      "services": "Housing advice", 
+      "borough": "Sutton", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
       "tel": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail:advice@rmns.org.uk.", 
       "area": "South", 
       "process": "Drop-in or make an appointment", 
@@ -10,7 +63,33 @@
       "days": "Drop-in centre every Wednesday from 10.00 to 12.00 at Trinity Church Hall Hill Road, Sutton, SM1 1DZ", 
       "services": "Immigration Advice", 
       "borough": "Sutton", 
-      "email": "advice@rmns.org.uk."
+      "type": "Immigration"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "tel": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail:advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee and Migrant Network Sutton", 
+      "clients": "All", 
+      "days": "Drop-in centre every Wed", 
+      "services": "Counselling", 
+      "borough": "Sutton", 
+      "type": "Mental Health Services"
+    }, 
+    {
+      "website": "http://www.rmns.org.uk/what-we-offer.html", 
+      "email\r": "advice@rmns.org.uk.", 
+      "area": "South", 
+      "process": "Drop-in or make an appointment", 
+      "organisation": "Refugee\u00a0and Migrant Network Sutton", 
+      "clients": "All", 
+      "days": "Drop-in centre every Wednesday from 10-12 at Trinity Church Hall Hill Road, Sutton, SM1 1DZ", 
+      "telephone": "Advice Worker Lucy: 020 8644 4374 or 07516 175662 to make an appointment or by e-mail:advice@rmns.org.uk.", 
+      "services": "Emergency assistance", 
+      "borough": "Sutton", 
+      "type": "NRPF"
     }
   ]
 }

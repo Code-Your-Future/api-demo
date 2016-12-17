@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "http://www.breaking-barriers.co.uk/", 
+      "email\r": "enquiries@breaking-barriers.co.uk, ", 
       "tel": "07908 801286", 
       "area": "Central and South", 
       "process": "phone or email stating\u00a0name, contact telephone number and within 2 days\u00a0an initial appointment will be made. or drop in centre", 
@@ -10,7 +11,7 @@
       "days": "\u00a0drop in centre between 9am and 5pm every Thursday at John Morris House Community Centre SW11 1SW.", 
       "services": "Employability workshops/placements", 
       "borough": "Farringdon/ Battersea", 
-      "email": "enquiries@breaking-barriers.co.uk, "
+      "type": "Immigration"
     }
   ]
 }

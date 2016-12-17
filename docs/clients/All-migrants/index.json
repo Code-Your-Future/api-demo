@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "www.hclc.org.uk", 
+      "email\r": "", 
       "tel": "020 8985 8364", 
       "area": "All", 
       "process": "Call between 11am-1pm", 
@@ -10,10 +11,11 @@
       "days": "Fridays", 
       "services": "Telephone Adviceline", 
       "borough": "All", 
-      "email": ""
+      "type": "Immigration"
     }, 
     {
       "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "email\r": "", 
       "tel": "0845 618 5385", 
       "area": "All", 
       "process": "Call for advice", 
@@ -22,10 +24,11 @@
       "days": "Mon-Fri", 
       "services": "Telephone Adviceline", 
       "borough": "All", 
-      "email": ""
+      "type": "Immigration"
     }, 
     {
       "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "email\r": "", 
       "tel": "020 7701 0141", 
       "area": "South East", 
       "process": "Call for appointment", 
@@ -34,7 +37,20 @@
       "days": "N/A", 
       "services": "Immigration Advice", 
       "borough": "Southwark", 
-      "email": ""
+      "type": "Immigration"
+    }, 
+    {
+      "website": "www.hclc.org.uk", 
+      "email\r": "", 
+      "area": "All", 
+      "process": "Call between 11am-1pm", 
+      "organisation": "Hackney Community Law Centre", 
+      "clients": "All migrants", 
+      "days": "Fridays", 
+      "telephone": "020 8985 8364", 
+      "services": "Telephone Adviceline", 
+      "borough": "All", 
+      "type": "NRPF"
     }
   ]
 }

@@ -2,6 +2,72 @@
   "data": [
     {
       "website": "www.waterlooactioncentre.co.uk", 
+      "email\r": "david.fisher@wcdg.org.uk. wac.office1971@gmail.com", 
+      "tel": "0207 261 1404", 
+      "area": "South", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "Waterloo Action Centre", 
+      "clients": "Status", 
+      "services": "Debt Advice", 
+      "borough": "Lambeth", 
+      "type": "Debt", 
+      "day": "Monday am"
+    }, 
+    {
+      "website": "www.waterlooactioncentre.co.uk", 
+      "email\r": "david.fisher@wcdg.org.uk. wac.office1971@gmail.com", 
+      "tel": "207 261 1404", 
+      "area": "South", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "Waterloo Action Centre", 
+      "clients": "Status", 
+      "services": "Debt Advice", 
+      "borough": "Lambeth", 
+      "type": "Debt", 
+      "day": "Wednesday am"
+    }, 
+    {
+      "website": "www.waterlooactioncentre.co.uk", 
+      "email\r": "david.fisher@wcdg.org.uk. wac.office1971@gmail.com", 
+      "tel": "207 261 1404", 
+      "area": "South", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "Waterloo Action Centre", 
+      "clients": "Status", 
+      "services": "Debt Advice", 
+      "borough": "Lambeth", 
+      "type": "Debt", 
+      "day": "Friday am"
+    }, 
+    {
+      "website": "http://hfw.org.uk/contact-us", 
+      "email\r": "info@h4w.co.uk / samina.yaqub@h4w.co.uk", 
+      "tel": "020 7501 6120 / 02075016135", 
+      "area": "South West", 
+      "process": "Special Projects Manager- 02075016135 / samina.yaqub@h4w.co.uk", 
+      "organisation": "Re-Place", 
+      "clients": "Trafficked Women", 
+      "services": "Accommodation, floating support, emotional/health support, financial assistance", 
+      "borough": "Lambeth", 
+      "type": "Destitution", 
+      "day": "Mon-Fri"
+    }, 
+    {
+      "website": "www.waterlooactioncentre.co.uk", 
+      "email\r": "david.fisher@wcdg.org.uk. wac.office1971@gmail.com", 
+      "area": "South", 
+      "process": "Drop in (can call in advance)", 
+      "organisation": "Waterloo Action Centre", 
+      "clients": "Status", 
+      "days": "Monday Wednesday Friday am", 
+      "telephone": "0207 261 1404", 
+      "services": "Employment", 
+      "borough": "Lambeth", 
+      "type": "Employment"
+    }, 
+    {
+      "website": "www.waterlooactioncentre.co.uk", 
+      "email\r": "", 
       "tel": "0207 261 1404", 
       "area": "South", 
       "process": "Drop in (6.30-8pm) - as long as the person has a number, they will be registered and the volunteers will endeavour to see them before 10.30pm, but cannot be guaranteed.", 
@@ -10,7 +76,7 @@
       "days": "Thursday evening only ", 
       "services": "Legal advice", 
       "borough": "Lambeth", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

@@ -1,7 +1,73 @@
 {
   "data": [
     {
+      "website": "http://www.homelessuk.org/details.asp?id=HO1000457", 
+      "email\r": "", 
+      "tel": "020 7620 1504", 
+      "area": "South East", 
+      "process": "Take enquiries from 4pm all days except Thurs andSun", 
+      "organisation": "Missionaries of Charity Gift of Love", 
+      "clients": "Single homeless men aged 25+", 
+      "services": "Accommodation, resettlement support", 
+      "borough": "Southwark", 
+      "type": "Destitution", 
+      "day": "N/A"
+    }, 
+    {
+      "website": "http://uklgig.org.uk/", 
+      "email\r": "", 
+      "tel": "020 7922 7811", 
+      "area": "All", 
+      "process": "Call helpline or attend", 
+      "organisation": "UKLGIG", 
+      "clients": "LGBTI AS", 
+      "services": "Advice, referrals, social support projects", 
+      "borough": "Southwark", 
+      "type": "Destitution", 
+      "day": "Monthly legal meetings, Mon-Fri helpline"
+    }, 
+    {
+      "website": "http://www.cara.ngo/", 
+      "email\r": "", 
+      "area": "South", 
+      "process": "Call or email info@cara.ngo for more information on referrals.", 
+      "organisation": "Cara (Council for Assisting Refugee Academics)", 
+      "clients": "Refugee lecturers/ researchers", 
+      "telephone": "0207 021 0880", 
+      "services": "Grants provided for refugee academics who have been employed as a lecturer/researcher at a University in their home country.", 
+      "borough": "Southwark", 
+      "type": "Education", 
+      "day": ""
+    }, 
+    {
+      "website": "http://www.mungos.org/services/employment_and_training_team", 
+      "email\r": "info@mungos.org", 
+      "area": "South", 
+      "process": "Call to make an appointment", 
+      "organisation": "St Mungos (Employment and Training Team)", 
+      "clients": "Status (poss AS for vol)", 
+      "days": "N/A", 
+      "telephone": "020 7902 7948", 
+      "services": "Employment and Training", 
+      "borough": "Southwark", 
+      "type": "Employment"
+    }, 
+    {
+      "website": "http://www.employmentacademy.org.uk/services/training/", 
+      "email\r": "employmentacademy@thamesreach.org.uk", 
+      "area": "South", 
+      "process": "Refer or clients can call directly", 
+      "organisation": "Thames Reach Employment Academy", 
+      "clients": "Long-term unemployed/ Homeless/ Vulnerable People", 
+      "days": "Mon - Fri (varies from course to course)", 
+      "telephone": "\u00a00203 617 6070", 
+      "services": "Training and Employment Advice", 
+      "borough": "Southwark", 
+      "type": "Employment"
+    }, 
+    {
       "website": "http://lambethandsouthwarkmind.org.uk/directory/afro-asian-advisory-service/", 
+      "email\r": "", 
       "tel": "020 7701 0141", 
       "area": "South East", 
       "process": "Call for appointment", 
@@ -10,7 +76,7 @@
       "days": "N/A", 
       "services": "Immigration Advice", 
       "borough": "Southwark", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

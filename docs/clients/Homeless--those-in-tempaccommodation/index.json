@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "website": "http://www.healthe1practice.nhs.uk/", 
+      "email\r": "", 
+      "tel": "020 7247 0090", 
+      "area": "East", 
+      "process": "Drop-in GP/ nurse clinic Mon-Thu: 9 - 11, Fri: 14 - 15.30. Appointments can be made by phone, they're available Mon-Thu: 2-5. For mental health and substance abuse clinic opening times, check website.", 
+      "organisation": "Health E1", 
+      "clients": "Homeless/ those in tempaccommodation", 
+      "services": "Offers a general health clinic, substance misuse clinic and mental health clinic", 
+      "borough": "Tower Hamlets", 
+      "type": "Healthcare", 
+      "day": "Mon-Fri (check website for specific walk-in/ appointment times)"
+    }
+  ]
+}

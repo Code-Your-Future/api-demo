@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "website": "http://rightsofwomen.org.uk/", 
+      "email\r": "", 
+      "tel": "02074907689 - telephone, 020 7490 2562 - textphone", 
+      "area": "All", 
+      "process": "Phone/text/website for free legal guides", 
+      "organisation": "Rights of Women", 
+      "clients": "Women AS, refugees", 
+      "services": "Advice line", 
+      "borough": "City of London", 
+      "type": "Destitution", 
+      "day": "Mon and Thurs"
+    }, 
+    {
+      "website": "http://www.aset.org.uk/about.html#about", 
+      "email\r": "", 
+      "area": "Central", 
+      "process": "Complete the full application form via the website.", 
+      "organisation": "All Saints Educational Trust", 
+      "clients": "Students who wish to become R.S/ Home Economics teachers", 
+      "telephone": "020 7248 8380", 
+      "services": "Grants for teachers or those intending to become teachers and students in Religious Studies, Home Economics and related subjects.", 
+      "borough": "City of London", 
+      "type": "Education", 
+      "day": ""
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "website": "http://www.tikofoundation.org/the-grant.php", 
+      "email\r": "", 
+      "area": "UK", 
+      "process": "", 
+      "organisation": "Tiko Foundation", 
+      "clients": "Asylum seekers", 
+      "telephone": "", 
+      "services": "Funding of\u00a0h/e tuition fees\u00a0and accommodation expenses", 
+      "borough": "UK", 
+      "type": "Education", 
+      "day": ""
+    }, 
+    {
+      "website": "https://www.nazandmattfoundation.org/about/", 
+      "area": "UK", 
+      "process": "email", 
+      "organisation": "Naz and Matt Foundation", 
+      "clients": "Members of the LGBTQIcommunity who facedescrimination becauseof religious beliefs", 
+      "days": "n/a", 
+      "telephone": "none", 
+      "services": "Sign posting, information, mentoring, health", 
+      "borough": "UK", 
+      "type": "LGBTQI", 
+      "email": "hello@nazandmattfoundation.org or matt@nazandmattfoundation.org"
+    }
+  ]
+}

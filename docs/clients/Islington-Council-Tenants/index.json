@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "website": "http://www.islingtonlaw.org.uk/legal-services/housing/", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "Call for an appointment", 
+      "organisation": "Islington Law Centre", 
+      "clients": "Islington Council Tenants", 
+      "days": "All", 
+      "telephone": "020 7527 5300", 
+      "services": "Council tenant Housing Advice", 
+      "borough": "Islington", 
+      "type": "Housing"
+    }
+  ]
+}

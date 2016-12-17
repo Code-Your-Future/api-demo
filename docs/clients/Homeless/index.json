@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "website": "http://www.rcmh.org.uk/index.php?nuc=organisationsandfunc=viewandid=9anditem=214", 
+      "email\r": "info@thewelcomecentre.org.uk", 
+      "tel": "0208 514 3283.", 
+      "area": "East", 
+      "process": "Day centre - nurses", 
+      "organisation": "The Welcome Project", 
+      "clients": "Homeless", 
+      "services": "Homelessness Support", 
+      "borough": "Redbridge", 
+      "type": "Destitution", 
+      "day": "Tuesday to Friday 10-3"
+    }, 
+    {
+      "website": "http://www.rcmh.org.uk/index.php?nuc=organisationsandfunc=viewandid=9anditem=214", 
+      "email\r": "", 
+      "tel": "0208 514 3283.", 
+      "area": "East", 
+      "process": "Day centre - nurses available", 
+      "organisation": "The Welcome Project", 
+      "clients": "Homeless", 
+      "services": "Destitution Support", 
+      "borough": "Redbridge", 
+      "type": "Healthcare", 
+      "day": "Tuesday to Friday 10-3"
+    }, 
+    {
+      "website": "www.cardinalhumecentre.org.uk/need-help/surgery", 
+      "email\r": "info@cardinalhumecentre.org.uk", 
+      "tel": "020 7222 8593 /020 7227 1673 (surgery)", 
+      "area": "South", 
+      "process": "Drop in- GPs and nurses available", 
+      "organisation": "Cardinal Hume Centre", 
+      "clients": "Homeless", 
+      "services": "Primary health care for homeless people", 
+      "borough": "Westminster", 
+      "type": "Healthcare", 
+      "day": "Mon/Tue/Thu 9.15 -13, 14-16, Wed 9.15 - 13, 14 - 19, Fri 12.20 - 16.30"
+    }, 
+    {
+      "website": "http://www.greatchapelst.org.uk/opening-times/", 
+      "email\r": "", 
+      "tel": "020 7437 9360", 
+      "area": "Central", 
+      "process": "Drop-in centre", 
+      "organisation": "Great Chapel Street Medical Centre", 
+      "clients": "Homeless", 
+      "services": "Walk-in medical centre with GPs, nurses, mental health nurses, counsellors. Psychiatrists and dentists available on appointment.", 
+      "borough": "Westminster", 
+      "type": "Healthcare", 
+      "day": "Mon/Tue/Thur 11-12.30, 14-16.30\u00a0Wed/Fri 14 - 18"
+    }, 
+    {
+      "website": "http://www.mungos.org/services/preventing_homelessness", 
+      "email\r": "Info@MUNGOS.ORG", 
+      "area": "London", 
+      "process": "All referrals made through Streetlink (0300 500 0914)", 
+      "organisation": "St Mungos", 
+      "clients": "Homeless", 
+      "days": "N/A", 
+      "telephone": "020 3856 6000", 
+      "services": "Homelessness", 
+      "borough": "All", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.streetlink.org.uk/", 
+      "email\r": "info@streetlink.org.uk", 
+      "area": "All", 
+      "process": "Call to refer", 
+      "organisation": "Streetlink", 
+      "clients": "Homeless", 
+      "days": "N/A", 
+      "telephone": "0300 500 0914", 
+      "services": "Homelessness", 
+      "borough": "All", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.rcmh.org.uk/index.php?nuc=organisationsandfunc=viewandid=9anditem=214", 
+      "email\r": "", 
+      "area": "East", 
+      "process": "Day centre - nurses", 
+      "organisation": "The Welcome Project", 
+      "clients": "Homeless", 
+      "days": "Tuesday to Friday 10-3", 
+      "telephone": "0208 514 3283.", 
+      "services": "Housing advice", 
+      "borough": "Redbridge", 
+      "type": "Housing"
+    }
+  ]
+}

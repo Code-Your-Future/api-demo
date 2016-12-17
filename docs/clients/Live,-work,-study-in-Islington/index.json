@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "website": "http://www.islingtonlaw.org.uk/legal-services/housing/", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "Call for an appointment", 
+      "organisation": "Islington Law Centre", 
+      "clients": "Live, work, study in Islington", 
+      "days": "All", 
+      "telephone": "020 7288 7630", 
+      "services": "Housing Advice", 
+      "borough": "Islington", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.islingtonlaw.org.uk/projects/evening-advice-sessions/", 
+      "email\r": "eveningadvice@islingtonlaw.org.uk", 
+      "area": "North", 
+      "process": "Appointment only. Call or email for an appointment.", 
+      "organisation": "Islington Law Centre", 
+      "clients": "Live, work, study in Islington", 
+      "days": "Mon, Tues, Wed eves", 
+      "telephone": "020 7288 7633", 
+      "services": "Landlord-tenant disputes", 
+      "borough": "Islington", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.islingtonlaw.org.uk/wp-content/uploads/2016/04/TAP-Housing.pdf", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "Call for an appointment", 
+      "organisation": "Islington Law Centre (outreach - Caledonian Connect)", 
+      "clients": "Live, work, study in Islington", 
+      "days": "Thursdays pm", 
+      "telephone": "020 7288 7630/020 3227 0077/ 020 7837 0056", 
+      "services": "Housing advice", 
+      "borough": "Islington", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.islingtonlaw.org.uk/wp-content/uploads/2016/04/TAP-Housing.pdf", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "Call for an appointment", 
+      "organisation": "Islington Law Centre (outreach - Essex Rd)", 
+      "clients": "Live, work, study in Islington", 
+      "days": "Wednesdays am", 
+      "telephone": "020 7288 7630/020 3227 0077", 
+      "services": "Housing advice", 
+      "borough": "Islington", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.islingtonlaw.org.uk/wp-content/uploads/2016/04/TAP-Housing.pdf", 
+      "email\r": "", 
+      "area": "North", 
+      "process": "Call for an appointment", 
+      "organisation": "Islington Law Centre (outreach)", 
+      "clients": "Live, work, study in Islington", 
+      "days": "Mondays pm", 
+      "telephone": "020 7288 7630/020 3227 0077", 
+      "services": "Housing advice", 
+      "borough": "Islington (Finsbury Park)", 
+      "type": "Housing"
+    }
+  ]
+}

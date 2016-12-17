@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "website": "http://www.renewalprogramme.org.uk/refugee-and-migrant-project.html", 
+      "email\r": "info@renewalprogramme.org.uk", 
+      "tel": "020 8471 6954", 
+      "area": "East", 
+      "process": "Drop in (Tues) or appointmnet", 
+      "organisation": "RAMP (Renewal Project)", 
+      "clients": "R/AS with no income", 
+      "services": "Food and clothing", 
+      "borough": "Newham", 
+      "type": "Destitution", 
+      "day": "Tuesdays (Drop-in), Appointments other days"
+    }, 
+    {
+      "website": "http://www.renewalprogramme.org.uk/refugee-and-migrant-project.html", 
+      "email\r": "info@renewalprogramme.org.uk", 
+      "area": "East", 
+      "process": "Drop in (Tues) or appointmnet", 
+      "organisation": "RAMP (Renewal Project)", 
+      "clients": "R/AS with no income", 
+      "days": "Tuesdays (Drop-in), Appointments other days", 
+      "telephone": "020 8471 6954", 
+      "services": "Food and clothing", 
+      "borough": "Newham", 
+      "type": "NRPF"
+    }
+  ]
+}

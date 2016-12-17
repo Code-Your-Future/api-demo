@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "website": "http://www.ecil.org/contactus.asp", 
+      "email\r": "ecil@ecil.org", 
+      "tel": "020 8840 8717 / 020 8840 3682", 
+      "area": "West", 
+      "process": "Day centre", 
+      "organisation": "ECIL - Ealing Centre for Independent Living", 
+      "clients": "Disabled people and carers", 
+      "services": "Supporting disabled people and carers", 
+      "borough": "Ealing", 
+      "type": "Healthcare", 
+      "day": "N/A"
+    }, 
+    {
+      "website": "http://www.ecil.org/contactus.asp", 
+      "email\r": "info@ealingsas.org.uk", 
+      "tel": "020 8579 8429", 
+      "area": "West", 
+      "process": "", 
+      "organisation": "ESAS \u2013 Ealing Specialist Advice Service", 
+      "clients": "Disabled people and carers", 
+      "services": "Information and advice services of Ealing Centre for Independent Living", 
+      "borough": "Ealing", 
+      "type": "Healthcare", 
+      "day": "N/A"
+    }, 
+    {
+      "website": "http://www.discorani.co.uk/", 
+      "area": "West", 
+      "process": "buy ticket online", 
+      "organisation": "Disco Rani", 
+      "clients": "Muslim LGBTQI", 
+      "days": "See website for next event", 
+      "telephone": "", 
+      "services": "A fabulous new take on the \u2018dinner and dance\u2019.\u00a0Hosted by Britain\u2019s first out Muslim Drag Queen - Asifa Lahore. A great person to meet.\u00a0You buy your ticket, you get fed home cookedindian food, followed by a dance.\u00a0", 
+      "borough": "Ealing", 
+      "type": "LGBTQI", 
+      "email": "n/a"
+    }
+  ]
+}

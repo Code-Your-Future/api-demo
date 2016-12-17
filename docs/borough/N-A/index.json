@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "website": "Speak to Lucy Bracken at HBF", 
+      "email\r": "", 
+      "area": "All", 
+      "process": "", 
+      "organisation": "Age UK", 
+      "clients": "", 
+      "days": "", 
+      "telephone": "", 
+      "services": "Volunteering opportunities", 
+      "borough": "N/A", 
+      "type": "Employment"
+    }, 
+    {
+      "website": "https://apps.nhsbsa.nhs.uk/LISWebAppStaticData/begin.do", 
+      "email\r": "", 
+      "tel": "3001230849", 
+      "area": "N/A", 
+      "process": "Call/go on website to order HC1 forms/send clients to DoTW drop-in to complete form.", 
+      "organisation": "HC2 Certificates", 
+      "clients": "Asylum seekers\u00a0and those on benefits", 
+      "services": "Applications via HC1 forms for HC2 certificate that allows clients free prescriptions, opticians and dental.", 
+      "borough": "N/A", 
+      "type": "Healthcare", 
+      "day": "N/A"
+    }, 
+    {
+      "website": "http://www.crisis.org.uk/find-pr-scheme.php", 
+      "email\r": "", 
+      "area": "N/A", 
+      "process": "Search for a private rented project on website", 
+      "organisation": "Crisis - Private Renting Project search", 
+      "clients": "Status", 
+      "days": "N/A", 
+      "telephone": "N/A", 
+      "services": "Private Renting", 
+      "borough": "N/A", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.salvationarmy.org.uk/map-page", 
+      "email\r": "info@salvationarmy.org.uk", 
+      "area": "All", 
+      "process": "http://www.salvationarmy.org.uk/contact-us#Local", 
+      "organisation": "Salvation Army", 
+      "clients": "All", 
+      "days": "N/A", 
+      "telephone": "(020) 7367 4500", 
+      "services": "Homelessness/Housing Support", 
+      "borough": "N/A", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "List of support groups: http://uklgig.org.uk/?page_id=498", 
+      "area": "N/A", 
+      "process": "admin@uklgig.org.uk", 
+      "organisation": "UKLGIG", 
+      "clients": "LGBT asylum seekers", 
+      "days": "n/a", 
+      "telephone": "020 7922 7811", 
+      "services": "Assisting those seeking asylum on grounds ofsexuality", 
+      "borough": "N/A", 
+      "type": "LGBTQI", 
+      "email": ""
+    }, 
+    {
+      "website": "http://www.refugeecouncil.org.uk/contact", 
+      "email\r": "", 
+      "area": "N/A", 
+      "process": "children@refugeecouncil.org.uk", 
+      "organisation": "Refugee Council", 
+      "clients": "Children", 
+      "days": "All", 
+      "telephone": "020 7346 1134", 
+      "services": "Adviceline", 
+      "borough": "N/A", 
+      "type": "YP-Families"
+    }
+  ]
+}

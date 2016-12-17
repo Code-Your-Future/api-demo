@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "website": "www.wls.org.uk", 
+      "email\r": "dropin@wls.org.uk", 
+      "tel": "0207 723 4404", 
+      "area": "West", 
+      "process": "Drop in Tuesdays 10am-1pm", 
+      "organisation": "West London Synagogue", 
+      "clients": "Destitute Asylum Seekers", 
+      "services": "Hot meal, Food vouchers,clothing (for children\u00a0and parents)", 
+      "borough": "", 
+      "type": "Destitution", 
+      "day": "Third Sunday of the month"
+    }, 
+    {
+      "website": "http://www.nnls-masorti.org.uk/page.php?ID=83", 
+      "email\r": "Dropin@nnls-masorti.org.uk", 
+      "tel": "e-mail: Dropin@nnls-masorti.org.uk", 
+      "area": "All", 
+      "process": "Drop in", 
+      "organisation": "Asylum Seekers Drop-in", 
+      "clients": "Destitute Asylum Seekers", 
+      "services": "Advice, essentials", 
+      "borough": "Barnet", 
+      "type": "Destitution", 
+      "day": "every Sunday from 2-5pm"
+    }, 
+    {
+      "website": "http://www.nnls-masorti.org.uk/page.php?ID=83", 
+      "email\r": "Dropin@nnls-masorti.org.uk", 
+      "area": "All", 
+      "process": "Drop in", 
+      "organisation": "Asylum Seekers Drop-in", 
+      "clients": "Destitute Asylum Seekers", 
+      "days": "every Sunday from 2-5pm", 
+      "telephone": "e-mail: Dropin@nnls-masorti.org.uk", 
+      "services": "Food, social", 
+      "borough": "Barnet", 
+      "type": "Social and Other"
+    }
+  ]
+}

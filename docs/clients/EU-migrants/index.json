@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "www.airecentre.org", 
+      "email\r": "info@airecentre.org", 
       "tel": "020 7831 4276", 
       "area": "All", 
       "process": "Call between 10am-6pm", 
@@ -10,7 +11,7 @@
       "days": "Mon- Fri", 
       "services": "Telephone Adviceline", 
       "borough": "All", 
-      "email": "info@airecentre.org"
+      "type": "Immigration"
     }
   ]
 }

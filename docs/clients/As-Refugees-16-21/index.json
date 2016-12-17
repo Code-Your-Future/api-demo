@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "website": "http://www.childrenssociety.org.uk/what-we-do/helping-children/stand-by-me", 
+      "email\r": "Christine.Bonney@childrenssociety.org.uk/kalyani.mccarthy@childrenssociety.org.uk", 
+      "tel": "020 8221 8215/07720 940561", 
+      "area": "East", 
+      "process": "Email to refer", 
+      "organisation": "Children's Society", 
+      "clients": "As/Refugees 16-21", 
+      "services": "Housing and Support", 
+      "borough": "Newham", 
+      "type": "Destitution", 
+      "day": "N/A"
+    }, 
+    {
+      "website": "http://www.childrenssociety.org.uk/what-we-do/helping-children/stand-by-me", 
+      "email\r": "Christine.Bonney@childrenssociety.org.uk/kalyani.mccarthy@childrenssociety.org.uk", 
+      "area": "East", 
+      "process": "Email to refer", 
+      "organisation": "Children's Society", 
+      "clients": "As/Refugees 16-21", 
+      "days": "N/A", 
+      "telephone": "020 8221 8215/07720 940561", 
+      "services": "Housing and Support", 
+      "borough": "Newham", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.childrenssociety.org.uk/what-we-do/helping-children/stand-by-me", 
+      "email\r": "Christine.Bonney@childrenssociety.org.uk/kalyani.mccarthy@childrenssociety.org.uk", 
+      "area": "East", 
+      "process": "Email to refer", 
+      "organisation": "Children's Society", 
+      "clients": "As/Refugees 16-21", 
+      "days": "N/A", 
+      "telephone": "020 8221 8215/07720 940561", 
+      "services": "Section 17/Lifting NRPF", 
+      "borough": "Newham", 
+      "type": "NRPF"
+    }, 
+    {
+      "website": "http://www.childrenssociety.org.uk/what-we-do/helping-children/stand-by-me", 
+      "email\r": "Christine.Bonney@childrenssociety.org.uk/kalyani.mccarthy@childrenssociety.org.uk", 
+      "area": "East", 
+      "process": "Email to refer", 
+      "organisation": "Children's Society", 
+      "clients": "As/Refugees 16-21", 
+      "days": "N/A", 
+      "telephone": "020 8221 8215/07720 940561", 
+      "services": "Holistic Support", 
+      "borough": "Newham", 
+      "type": "YP-Families"
+    }
+  ]
+}

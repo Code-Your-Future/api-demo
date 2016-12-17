@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "tel": "07963 509 044", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "Destitution", 
+      "day": "Tuesday"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "tel": "07963 509 044", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "Destitution", 
+      "day": "Wednesday"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "days": "Tuesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "days": "Wednesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF families", 
+      "days": "Tuesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "NRPF"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF families", 
+      "days": "Wednesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "NRPF"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "days": "Tuesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "YP-Families"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "North", 
+      "process": "07963 509 044 to book appointment", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "days": "Wednesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Islington (Holloway)", 
+      "type": "YP-Families"
+    }
+  ]
+}

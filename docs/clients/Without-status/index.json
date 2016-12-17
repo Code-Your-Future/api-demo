@@ -2,6 +2,7 @@
   "data": [
     {
       "website": "https://www.cardinalhumecentre.org.uk/need-help/immigration-advice/", 
+      "email\r": "", 
       "tel": "020 7227 1673", 
       "area": "Central", 
       "process": "Call for advice/appointment", 
@@ -10,7 +11,7 @@
       "days": "N/A", 
       "services": "Immigration Advice", 
       "borough": "Westminster", 
-      "email": ""
+      "type": "Immigration"
     }
   ]
 }

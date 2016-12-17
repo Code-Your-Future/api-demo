@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "website": "http://www.hounslowcabs.org.uk/", 
+      "email\r": "", 
+      "tel": "020 8572 1082 (telephone advice line)", 
+      "area": "West", 
+      "process": "Drop-in (arrive 9.30am for 10am open) Brentford and Chiswick CAB.", 
+      "organisation": "Hounslow CAB", 
+      "clients": "Hounslow Residents", 
+      "services": "Debt Advice", 
+      "borough": "Hounslow", 
+      "type": "Debt", 
+      "day": "Mon, Wed, Thurs"
+    }, 
+    {
+      "website": "http://www.hounslowcabs.org.uk/", 
+      "email\r": "", 
+      "tel": "020 8572 1082 (telephone advice line)", 
+      "area": "West", 
+      "process": "Drop-in (arrive 9.30am for 10am open) Feltham CAB", 
+      "organisation": "Hounslow CAB", 
+      "clients": "Hounslow Residents", 
+      "services": "Debt Advice", 
+      "borough": "Hounslow", 
+      "type": "Debt", 
+      "day": "Tues, Thurs, Fri"
+    }, 
+    {
+      "website": "http://www.hounslowcabs.org.uk/", 
+      "email\r": "", 
+      "tel": "020 8572 1082 (telephone advice line)", 
+      "area": "West", 
+      "process": "Drop-in (arrive at 9 for 9.30 open) at Montague Hall, Hounslow, TW3 1LD", 
+      "organisation": "Hounslow CAB", 
+      "clients": "Hounslow Residents", 
+      "services": "Debt Advice", 
+      "borough": "Hounslow", 
+      "type": "Debt", 
+      "day": "Wednesday am"
+    }, 
+    {
+      "website": "http://www.hounslowcabs.org.uk/", 
+      "email\r": "", 
+      "tel": "2088922424", 
+      "area": "West", 
+      "process": "Call for appointment (Bridgelink Centre, Summerwood Rd, Iselworth, TW7 7QU", 
+      "organisation": "Hounslow CAB", 
+      "clients": "Hounslow Residents", 
+      "services": "Debt Advice", 
+      "borough": "Hounslow", 
+      "type": "Debt", 
+      "day": "Thursday"
+    }, 
+    {
+      "website": "http://www.hounslowcabs.org.uk/", 
+      "email\r": "", 
+      "tel": "020 8572 1082 (telephone advice line)", 
+      "area": "West", 
+      "process": "Drop-in (arrive 9.30 for 10 open) at Heston Fam Community Centre, TW5 0UP", 
+      "organisation": "Hounslow CAB", 
+      "clients": "Hounslow Residents", 
+      "services": "Debt Advice", 
+      "borough": "Hounslow", 
+      "type": "Debt", 
+      "day": "Fridays"
+    }
+  ]
+}

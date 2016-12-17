@@ -1,3 +1,5 @@
+# encoding=utf8
+from __future__ import unicode_literals
 import csv
 import json
 import os
@@ -5,7 +7,10 @@ import shutil
 import errno
 from tinydb import TinyDB, Query
 
+import sys
 
+reload(sys)
+sys.setdefaultencoding('utf8')
 def mkdir(path):
     """mkdir, fail silently"""
     try:
@@ -58,24 +63,28 @@ if os.path.exists('db.json'):
 mkdir('docs')
 db = TinyDB('db.json')
 
-csvfile = open('data.csv', 'r')
+for filename in os.listdir('./data'):
+    csvfile = open('./data/{}'.format(filename), 'r')
 
-# Get the fieldnames from the first line of the csv
-fieldnames = csvfile.readline().replace('\n', '').split(',')
+    data_type = filename.replace('.csv', '')
 
-reader = csv.DictReader(csvfile, fieldnames)
+    # Get the fieldnames from the first line of the csv
+    fieldnames = csvfile.readline().replace('\n', '').split(',')
 
-# Add the data to the DB, cleaning as we go
-for row in reader:
-    data = {}
-    for key, value in row.iteritems():
-        data[clean(key.lower())] = clean(value)
-    db.insert(data)
+    reader = csv.DictReader(csvfile, fieldnames)
+
+    # Add the data to the DB, cleaning as we go
+    for row in reader:
+        data = {'type': data_type}
+        for key, value in row.iteritems():
+            data[clean(key.lower())] = clean(value)
+        db.insert(data)
 
 
 create_api('area', get_unique('area'))
 create_api('borough', get_unique('borough'))
 create_api('clients', get_unique('clients'))
+create_api('type', get_unique('type'))
 
 
 # Write all the data down, into a single file

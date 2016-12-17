@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "tel": "07963 509 044", 
+      "area": "East", 
+      "process": "Drop-in, 3rd Wed of the month", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Hackney (Stoke Newington)", 
+      "type": "Destitution", 
+      "day": "Wednesday"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "East", 
+      "process": "Drop-in, 3rd Wed of the month", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "days": "Wednesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Hackney (Stoke Newington)", 
+      "type": "Housing"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "East", 
+      "process": "Drop-in, 3rd Wed of the month", 
+      "organisation": "Project 17", 
+      "clients": "NRPF families", 
+      "days": "Wednesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Hackney (Stoke Newington)", 
+      "type": "NRPF"
+    }, 
+    {
+      "website": "http://www.project17.org.uk/our-services/advice-and-advocacy/", 
+      "email\r": "info@project17.org.uk", 
+      "area": "East", 
+      "process": "Drop-in, 3rd Wed of the month", 
+      "organisation": "Project 17", 
+      "clients": "NRPF", 
+      "days": "Wednesday", 
+      "telephone": "07963 509 044", 
+      "services": "Homelessness/Poverty", 
+      "borough": "Hackney (Stoke Newington)", 
+      "type": "YP-Families"
+    }
+  ]
+}

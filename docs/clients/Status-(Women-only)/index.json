@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "website": "http://www.refugeewomen.org.uk/info/infom.htm", 
+      "email\r": "info@refugeewoman.org", 
+      "area": "East", 
+      "process": "Call for an appointment", 
+      "organisation": "Refugee Women's Association", 
+      "clients": "Status (Women only)", 
+      "telephone": "020 7923 2412", 
+      "services": "ESOL Classes", 
+      "borough": "Hackney", 
+      "type": "Education", 
+      "day": "All"
+    }, 
+    {
+      "website": "http://www.refugeewomen.org.uk/info/infom.htm", 
+      "email\r": "info@refugeewoman.org", 
+      "area": "East", 
+      "process": "Call for an appointment", 
+      "organisation": "Refugee Women's Association", 
+      "clients": "Status (Women only)", 
+      "days": "All", 
+      "telephone": "020 7923 2412", 
+      "services": "Training and Employment", 
+      "borough": "Hackney", 
+      "type": "Employment"
+    }
+  ]
+}
